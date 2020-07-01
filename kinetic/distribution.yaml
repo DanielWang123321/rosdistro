@@ -6602,7 +6602,7 @@ repositories:
       tags:
         release: release/kinetic/{package}/{version}
       url: https://github.com/frankaemika/libfranka-release.git
-      version: 0.7.1-1
+      version: 0.8.0-1
     source:
       test_commits: false
       type: git
@@ -6669,7 +6669,7 @@ repositories:
       tags:
         release: release/kinetic/{package}/{version}
       url: https://github.com/IntelRealSense/librealsense2-release.git
-      version: 2.33.1-2
+      version: 2.35.2-2
     source:
       test_pull_requests: true
       type: git
@@ -7137,7 +7137,7 @@ repositories:
       tags:
         release: release/kinetic/{package}/{version}
       url: https://github.com/swri-robotics-gbp/marti_common-release.git
-      version: 2.13.1-1
+      version: 2.13.7-1
     source:
       test_pull_requests: true
       type: git
@@ -7489,7 +7489,7 @@ repositories:
       tags:
         release: release/kinetic/{package}/{version}
       url: https://github.com/uos-gbp/mir_robot-release.git
-      version: 1.0.5-1
+      version: 1.0.6-1
     source:
       test_pull_requests: true
       type: git
@@ -14915,17 +14915,17 @@ repositories:
     doc:
       type: git
       url: https://github.com/mgruhler/soem.git
-      version: master
+      version: kinetic
     release:
       tags:
         release: release/kinetic/{package}/{version}
       url: https://github.com/mgruhler/soem-gbp.git
-      version: 1.4.0-1
+      version: 1.4.1000-1
     source:
       test_pull_requests: true
       type: git
       url: https://github.com/mgruhler/soem.git
-      version: master
+      version: kinetic
     status: maintained
   sophus:
     release:
@@ -15509,7 +15509,7 @@ repositories:
       tags:
         release: release/kinetic/{package}/{version}
       url: https://github.com/ros-gbp/teleop_twist_keyboard-release.git
-      version: 0.6.2-0
+      version: 1.0.0-2
     source:
       type: git
       url: https://github.com/ros-teleop/teleop_twist_keyboard.git
@@ -16663,7 +16663,7 @@ repositories:
       tags:
         release: release/kinetic/{package}/{version}
       url: https://github.com/seqsense/urg_stamped-release.git
-      version: 0.0.5-1
+      version: 0.0.6-1
     source:
       type: git
       url: https://github.com/seqsense/urg_stamped.git
